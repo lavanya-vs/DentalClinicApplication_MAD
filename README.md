@@ -1,4 +1,5 @@
-# DentalEase - Dental Clinic Management Android Application
+# DentIQ - Smart Dental Patient Registration System
+ 
 
 DentalEase is a native Android application designed to streamline appointment handling, patient–doctor interaction, 
 and clinic management tasks within a dental environment. It provides separate, role-based dashboards for Patients and Doctors, 
